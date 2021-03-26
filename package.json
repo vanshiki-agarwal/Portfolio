@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanshiki Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "expres": "0.0.5",
+    "express": "^4.17.1"
+  }
+}
